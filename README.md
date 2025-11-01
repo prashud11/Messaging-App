@@ -1,4 +1,4 @@
-# Secure Messaging - Starter
+# Secure Messaging
 
 Simple two-party chat with RSA handshake and AES-GCM transport encryption.
 
